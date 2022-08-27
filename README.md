@@ -1,8 +1,11 @@
+<h1 align="center">Hi 👋, I'm phamhongphuc1403</h1>
+<h3 align="center">a lesor from Danang university of technology</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamhongphuc1403&label=Profile%20views&color=0e75b6&style=flat" alt="phamhongphuc1403" /> </p>
 
-- 🌱 I’m currently learning to be come a **MERN** stack!
+- 🌱 I’m currently learning to become a **MERN** stack!
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://codepen.io/df" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="phuc1403" height="30" width="40" /></a>
 <p align="left">
 </p>
 
