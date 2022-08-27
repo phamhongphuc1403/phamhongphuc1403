@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm phamhongphuc1403</h1>
 A loser from Danang university of technology
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamhongphuc1403&label=Profile%20views&color=0e75b6&style=flat" alt="phamhongphuc1403" /> </p>
 
 - 🌱 I’m currently learning to become a **MERN-stack** developer!
@@ -30,11 +31,15 @@ A loser from Danang university of technology
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
-<br />
+
+<!-- <br /> -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamhongphuc1403&show_icons=true&locale=en&layout=compact" alt="phamhongphuc1403" /></p>
+
 <br />
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1403&show_icons=true&locale=en" alt="phamhongphuc1403" /></p>
+
 <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1403&" alt="phamhongphuc1403" /></p>
