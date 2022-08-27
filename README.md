@@ -2,7 +2,8 @@
 A loser from Danang university of technology
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamhongphuc1403&label=Profile%20views&color=0e75b6&style=flat" alt="phamhongphuc1403" /> </p>
 
-- 🌱 I’m currently learning to become a **MERN** stack!
+- 🌱 I’m currently learning to become a **MERN-stack** developer!
+- 🎮 I love playing games, guitar and listening to music.
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://steamcommunity.com/id/phuc1403/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="phuc1403" height="30" width="40" /></a>
@@ -31,7 +32,7 @@ A loser from Danang university of technology
 </p>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamhongphuc1403&show_icons=true&locale=en&layout=compact" alt="phamhongphuc1403" /></p>
-
+<br />
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1403&show_icons=true&locale=en" alt="phamhongphuc1403" /></p>
 <br />
